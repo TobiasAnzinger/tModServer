@@ -1,0 +1,10 @@
+6ee86304725fa4ac713d981d17a87d1b1d0e014a Final Fix for #2660
+eb3f038d0a20ce620be36b72c9860231457f5e35 Fix Unix Steamworks Bugs (Hopefully based on limited testing)
+7a9916a72b5fd9ffd3b73222e21c7c1453e27a42 Catch all 'FolderShortcutSupport' exceptions.
+a4d4a30f33ea0b27c7ad32e1b176824e9e03f3fa Workaround for random lighting hangs (#2659)
+97194df95e1a6ac2c0503f69b7b5f9d4fc569cb9 Fix for the Steam Unsubscribe Issue (#2648)
+1db9143477b9370d001f245b738f24d137ba3a00 Prevent SDL2 loading on servers. (#2496)
+7c4f25db7fc0502ea019942d2b0e11805be75be1 Only log silently caught exceptions to console in servers. (#2647)
+adab93de380f0fd556a7158efd720ce81544ef1a Open Mods Folders -> open workshop folder too.
+cf53fdfd8638c5e3dd85e6803e10952a4b103028 Update ModUpdatedSinceLastLaunchMessage message
+55ba77b980a48f6d108ec77afb47df0b86ad7385 Gamepad overlapping fix (#2636)
